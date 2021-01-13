@@ -1,0 +1,103 @@
+<section class="catagoris d-flex justify-content-center mt-5">
+            <div class="container overflow-hidden">
+                <div class="row gy-5">
+                    <div class="col-6 d-flex justify-content-around align-items-center">
+                        <h2>
+                            BAGGG
+                        </h2>
+                        <img src="images/categories/xbox.png" alt="">
+                    </div>
+                    <div class="col-6 d-flex justify-content-around align-items-center">
+                
+                        <div class="row">
+                            <h2 class="col-6">
+                                BAGGG
+                            </h2>
+                            <img src="images/categories/bag.png" class="col-6" alt="">
+                        </div>
+
+                    </div>
+                    <div class="col-6  d-flex justify-content-around align-items-center">
+                        <div class="row">
+                            <h2 class="col-6">
+                                BAGGG
+                            </h2>
+                            <img src="images/categories/bag.png" class="col-6" alt="">
+                        </div>
+                    </div>
+                    <div class="col-6  d-flex justify-content-around align-items-center">
+                        <div class="row">
+                            <h2 class="col-6">
+                                BAGGG
+                            </h2>
+                            <img src="images/categories/bag.png" class="col-6" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div class="col-6">
+                        <div class="p-3 border bg-light d-flex justify-content-around align-items-center">
+                            <h3>BaGGG</h3>
+                            <img src="images/categories/bag.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="p-3 border bg-light d-flex justify-content-around align-items-center">
+                            <h3>BaGGG</h3>
+                            <img src="images/categories/shoes.png" alt="">
+                        </div>
+                    </div>
+
+
+
+
+
+
+
+
+
+
+
+                    <div class="container w-75">
+                <div class="row g-2">
+                    <div class="col-6">
+                        <div class="p-3 border bg-light d-flex justify-content-around align-items-center">
+                            <h3>BaGGG</h3>
+                            <img src="images/categories/xbox.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="p-3 border bg-light d-flex justify-content-around align-items-center">
+                            <h3>BaGGG</h3>
+                            <img src="images/categories/watch.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="p-3 border bg-light d-flex justify-content-around align-items-center">
+                            <h3>BaGGG</h3>
+                            <img src="images/categories/bag.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="p-3 border bg-light d-flex justify-content-around align-items-center">
+                            <h3>BaGGG</h3>
+                            <img src="images/categories/shoes.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
